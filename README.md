@@ -1,29 +1,29 @@
 <h2>📂 Text Classification Projects</h2>
 
 <p>
-Explore a collection of text classification projects ranging from scratch implementations to advanced Transformer models. Each project is versioned for easy reference.
+Explore a curated collection of text classification projects, from scratch implementations to advanced Transformer-based models. Each project is versioned for easy reference.
 </p>
 
-<div style="line-height: 2.0;">
+<div style="line-height: 2;">
 
-📝 <b>Text Classification from Scratch</b> <span style="color: #1E90FF;">[V3]</span> – Building end-to-end pipelines without pre-trained models.  
+<p><b>Text Classification from Scratch</b> <span style="color: #1E90FF;">[V3]</span> – Build end-to-end pipelines without pre-trained models.</p>
 
-📄 <b>Review Classification using Active Learning</b> <span style="color: #1E90FF;">[V3]</span> – Iterative labeling with active learning to improve performance.  
+<p><b>Review Classification using Active Learning</b> <span style="color: #1E90FF;">[V3]</span> – Improve performance through iterative labeling.</p>
 
-⚡ <b>Text Classification using FNet</b> <span style="color: #1E90FF;">[V2]</span> – Fast Transformer encoder for text classification.  
+<p><b>Text Classification using FNet</b> <span style="color: #1E90FF;">[V2]</span> – Fast Transformer encoder for efficient text classification.</p>
 
-📚 <b>Large-scale Multi-label Text Classification</b> <span style="color: #1E90FF;">[V3]</span> – Handling datasets with multiple labels per sample.  
+<p><b>Large-scale Multi-label Text Classification</b> <span style="color: #1E90FF;">[V3]</span> – Handle datasets with multiple labels per sample.</p>
 
-🔧 <b>Text Classification with Transformer</b> <span style="color: #1E90FF;">[V3]</span> – Standard Transformer for NLP classification tasks.  
+<p><b>Text Classification with Transformer</b> <span style="color: #1E90FF;">[V3]</span> – Standard Transformer for NLP classification tasks.</p>
 
-🚀 <b>Text Classification with Switch Transformer</b> <span style="color: #1E90FF;">[V2]</span> – Efficient large-scale classification with conditional computation.  
+<p><b>Text Classification with Switch Transformer</b> <span style="color: #1E90FF;">[V2]</span> – Efficient large-scale classification using conditional computation.</p>
 
-🌲 <b>Decision Forests + Pretrained Embeddings</b> <span style="color: #1E90FF;">[V3]</span> – Combining embeddings with ensemble tree models.  
+<p><b>Decision Forests + Pretrained Embeddings</b> <span style="color: #1E90FF;">[V3]</span> – Combine embeddings with ensemble tree models.</p>
 
-🎯 <b>Using Pre-trained Word Embeddings</b> <span style="color: #1E90FF;">[V3]</span> – Leveraging GloVe/Word2Vec embeddings for classification.  
+<p><b>Using Pre-trained Word Embeddings</b> <span style="color: #1E90FF;">[V3]</span> – Leverage GloVe or Word2Vec embeddings for classification.</p>
 
-🔄 <b>Bidirectional LSTM on IMDB</b> <span style="color: #1E90FF;">[V3]</span> – Sentiment analysis using BiLSTM networks.  
+<p><b>Bidirectional LSTM on IMDB</b> <span style="color: #1E90FF;">[V3]</span> – Sentiment analysis using BiLSTM networks.</p>
 
-⚙️ <b>Data Parallel Training with KerasHub & tf.distribute</b> – Scaling model training across multiple GPUs.  
+<p><b>Data Parallel Training with KerasHub & tf.distribute</b> – Scale model training across multiple GPUs.</p>
 
 </div>
