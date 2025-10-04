@@ -1,6 +1,6 @@
 <h2>📂 Text Classification Projects</h2>
 
-<p>Explore a collection of text classification projects ranging from scratch implementations to advanced Transformer models.</p>
+<p>A collection of text classification projects ranging from scratch implementations to advanced Transformer models.</p>
 
 <ul>
   <li>Text Classification from Scratch</li>
