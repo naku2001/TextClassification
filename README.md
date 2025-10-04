@@ -1,10 +1,10 @@
-<h2 align="center">📂 Text Classification Projects</h2>
+<h2>📂 Text Classification Projects</h2>
 
-<p align="center">
-  Explore a collection of text classification projects ranging from scratch implementations to advanced Transformer models. Each project is versioned for easy reference.  
+<p>
+Explore a collection of text classification projects ranging from scratch implementations to advanced Transformer models. Each project is versioned for easy reference.
 </p>
 
-<div align="center" style="line-height: 2.0;">
+<div style="line-height: 2.0;">
 
 📝 <b>Text Classification from Scratch</b> <span style="color: #1E90FF;">[V3]</span> – Building end-to-end pipelines without pre-trained models.  
 
